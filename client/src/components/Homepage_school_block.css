@@ -1,0 +1,16 @@
+.schoolBlock__contactSquaresContainer {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.schoolBlock_contactSquare {
+    aspect-ratio: 1;
+    height: 100px;
+    background-color: whitesmoke;
+    margin: 20px;
+    border-radius: 5px;
+    border: solid 3px black;
+    box-sizing: border-box;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}

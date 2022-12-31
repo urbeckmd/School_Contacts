@@ -1,0 +1,28 @@
+.contactList__cardContainer {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 100px auto ;
+    width: var(--width);
+    max-width: var(--max-width);
+    justify-content: center;
+}
+
+.schoolContactList__schooolNameBlock {
+    margin-bottom: 70px;
+}
+
+.contactList__fabContainer {
+    position: fixed;
+    width: var(--width);
+    max-width: var(--max-width);
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    bottom: 75px;
+    left: 0;
+    right: 0;
+}
+
+.contactList__fab {
+    transform: scale(1.5);
+}

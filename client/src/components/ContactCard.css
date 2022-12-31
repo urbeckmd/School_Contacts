@@ -1,0 +1,17 @@
+.contactCard__container {
+    display: flex;
+    background-color: whitesmoke;
+    width: 400px;
+    min-width: 400px;
+    height: 100px;
+    margin: 30px;
+    justify-content: space-between;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.contactCard__title {
+    font-weight: 400;
+}

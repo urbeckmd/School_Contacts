@@ -1,0 +1,22 @@
+.schoolList__container {
+    /* background-color: red; */
+    width: var(--width);
+    max-width: var(--max-width);
+    margin: auto;
+    /* background-color: blue; */
+    position: relative;
+}
+
+.schoolList__scrollButtons {
+    position: fixed;
+    top: 175px;
+    height: calc(100vh - 270px);
+    display: flex;
+    flex-direction: column;
+    /* background-color: red; */
+    justify-content: space-between;
+}
+
+.homePage__scrollButtons {
+    transform: scale(1.5);
+}

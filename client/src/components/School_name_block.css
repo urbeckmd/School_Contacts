@@ -1,0 +1,17 @@
+.schoolNameBlock__container {
+    background-color: whitesmoke;
+    width: 700px;
+    margin: 90px auto 30px;
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 5px;
+    padding: 10px 0;
+}
+
+.schoolNameBlock__districtName {
+    font-weight: 400;
+}
+
+.schoolNameBlock__container:hover {
+    cursor: pointer;
+}
